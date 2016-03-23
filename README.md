@@ -53,3 +53,5 @@ The following links might help you get your system setup for a dual boot operati
 * `ls` : Lists all the items in the working directory (mentioned in the terminal prompt).
 * `pwd` : pwd or print working directory does exactly what it means.
 * `cd dir` : changes the working directory to _dir_. More about cd command [here](http://www.computerhope.com/unix/ucd.htm).
+
+![Basic commands](assets/img1.png)
