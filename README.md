@@ -30,7 +30,7 @@ New Operating System, New Environment and probably new rules too? Yeah, But Let'
 - Customization
 - Basic Terminal Commands
 
-### How to install ubuntu
+##### How to install Ubuntu?
 Personally we recommend you to install Ubuntu 14.04(Trusty Tahr) although the latest release is 15.04, as we've had some bad experiences with that version.
 - Get [Disc Image](https://en.wikipedia.org/wiki/Disk_image) from [ubuntu.com](http://www.ubuntu.com/download)
 
@@ -40,3 +40,16 @@ We recommend to go with virtual machine first if you are not sure what you are d
 - Create a new virtual machine and install Ubuntu, [Tutorial](https://www.youtube.com/watch?v=Lv6V6ESOyUk)
 
 All went good? Installed Successfully? If not, check out this [Troubleshooting Guide](https://help.ubuntu.com/lts/installation-guide/i386/ch05s04.html).
+
+##### Setup Dual boot with Windows
+Dual boot facilitates you to install Ubuntu alongside Windows on your system, allowing you to choose the OS on which you want your system to boot on. Dual boot is usually not recommended because many a times it leads to complications. It is always better to run Ubuntu on a virtual machine if you want to keep using Windows along with your preferred Linux distro.  
+The following links might help you get your system setup for a dual boot operation -  
+* <http://www.dedoimedo.com/computers/dual-boot-windows-8-ubuntu.html>
+* <http://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation>
+* <http://askubuntu.com/questions/235862/what-are-the-partitions-to-create-if-i-want-to-dual-boot-ubuntu-12-10-with-windo>
+* <https://help.ubuntu.com/community/WindowsDualBoot>
+
+##### Basic Terminal Commands
+* `ls` : Lists all the items in the working directory (mentioned in the terminal prompt).
+* `pwd` : pwd or print working directory does exactly what it means.
+* `cd dir` : changes the working directory to _dir_. More about cd command [here](http://www.computerhope.com/unix/ucd.htm).
