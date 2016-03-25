@@ -23,14 +23,14 @@ Before using the sword, one must train his/her body first.
 ![Body building](https://media.giphy.com/media/K0dM34TGaMkcE/giphy.gif)
 
 ### [Right Tools](./Tools.md)
-Use your pawns currently or get pwned.  
+Use your pawns correctly or get pwned.  
 ![Pawned](http://i.kinja-img.com/gawker-media/image/upload/s--A_Lw8bYu--/lmfozaadtepubqmzkffa.gif)
 
 ### [Language](./Language.md) 
 Equip yourself with power of the sword.  
 ![I have the power](https://45.media.tumblr.com/df9340518317cc5969fda1b56f257316/tumblr_nujtkzAbMS1uyl9zzo1_500.gif)
 
-### [Right Knowledge](./Knowledge)
+### [Right Knowledge](./Knowledge.md)
 Enlighten yourself with coditual knowledge to kill bugs before they even reach you.  
 ![Hacker](http://i.kinja-img.com/gawker-media/image/upload/wkeao5dghbmyimjzqrz7.gif)
 
