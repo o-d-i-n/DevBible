@@ -43,11 +43,11 @@ The following links might help you get your system setup for a dual boot operati
 * <https://help.ubuntu.com/community/WindowsDualBoot>
 
 ##### Basic Terminal Commands
-```
-[COMMAND] [FLAGS_NAME]
-```
-Flags generally seperated by space and hyphen in starting, They could include values corresponds to that flag. Basically they are called arguments which are passed by your terminal to the process corresponds to that command handler. Commands operates in working directory only and could make use of globally/locally declared variables.
-path is addressed by series of file system entries seperated by delimiter, In Linux based system delimiter `/` in windows it is '\'.
+`[COMMAND] [FLAGS_NAME]`
+  
+Flags are generally seperated by space, prefixed by hypen and could include values corresponding to that flag. Basically, they are arguments that are passed by your terminal to the process corresponding to that command handler.  
+Commands operate in working directory only and could make use of globally/locally declared variables.  
+Path is addressed by a series of file system entries seperated by delimiter. In Linux based systems, the delimiter  is `/` but in windows it is '\'.
 
 * `echo` : Ask terminal to echo what you have written following _echo_ command.
 * `ls` : Lists all the items in the working directory (mentioned in the terminal prompt).
@@ -60,7 +60,7 @@ path is addressed by series of file system entries seperated by delimiter, In Li
   - `-rf`: Remove files recursively (subdirectories too)
 * `mkdir dir` : Make directory _dir_
 * `touch file` : Create empty _file_
-* `kill` : kill process
+* `kill` : kill process  
  Note: You can get help related to terminal commands by typing `help _command_`
 ![Basic commands](assets/img1.png)
 
