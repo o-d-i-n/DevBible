@@ -21,7 +21,7 @@ It has simple, clutter-free UI, and yet powerful functionalities. To add, there 
 It's really lightweight, doesn't take much RAM and is also powerful. Compared to IDEs like CodeBlocks or Eclipse, Sublime Text opens/closes within the blink of an eye  
 **3. The Search**  
 Sublime Text has some magical features including the famous "Ctrl+ P" or Project finder. You can search for anything in your project which may comprise of hundreds of files within the time a bacteria reproduces.  
-![alt tag](http://t.umblr.com/redirect?z=http%3A%2F%2Fi.imgur.com%2FaJwZu.png&t=NzFmNTcxODQyMjQ1NGUyZTlkYzkxMTRiZjRmNjAzNTg1YzY1NjhiZixpbGMzZVN1dQ%3D%3D)  
+![sublime text](assets/subl.png) 
 **4. Plugins, plugins, plugins**  
 Sublime Text has a great community and a greater package control. Combine the two together and boom, you have a recipe for amazing plugins. Plugins add the boosters to the rocket Sublime already is. And it can't be any easier to install! ctrl+shift+P, search for the plugin you like and done. Our favorites are:
 * Emmet : Write code faster with abbreviations
@@ -31,5 +31,5 @@ Sublime Text has a great community and a greater package control. Combine the tw
 
 **5. It's updated pretty much daily** 
 
-TLDR: It's awesome! So go on and download it!   
+It's awesome! So go on and download it!   
 [sublimetext.com](https://sublimetext.com) 
