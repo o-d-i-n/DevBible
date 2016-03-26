@@ -23,7 +23,7 @@ It's really lightweight, doesn't take much RAM and is also powerful. Compared to
 <br>
 ####3.The Search
 Sublime Text has some magical features including the famous "Ctrl+ P" or Project finder. You can search for anything in your project which may comprise of hundreds of files within the time a bacteria reproduces.
-<img src= "http://t.umblr.com/redirect?z=http%3A%2F%2Fi.imgur.com%2FaJwZu.png&t=NzFmNTcxODQyMjQ1NGUyZTlkYzkxMTRiZjRmNjAzNTg1YzY1NjhiZixpbGMzZVN1dQ%3D%3D">
+![alt tag](http://t.umblr.com/redirect?z=http%3A%2F%2Fi.imgur.com%2FaJwZu.png&t=NzFmNTcxODQyMjQ1NGUyZTlkYzkxMTRiZjRmNjAzNTg1YzY1NjhiZixpbGMzZVN1dQ%3D%3D)
 <br>
 ####4.Plugins,plugins,plugins
 Sublime Text has a great community and a greater package control. Combine the two together and boom, you have a recipe for amazing plugins. Plugins add the boosters to the rocket Sublime already is. And it can't be any easier to install! ctrl+shift+P, search for the plugin you like and done. Our favorites are:
