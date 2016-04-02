@@ -1,4 +1,4 @@
-# Chapter 2 - Devs' first &#10084;
+# Dev102 - Devs' first &#10084;
 
 A Text editor is a sacred software.  
 You get to write and edit your code all because of these marvelous editors.  
@@ -40,7 +40,7 @@ Atom's amazing traction in the development world is a proof enough of the "Text 
 
 ![atom.png](assets/atom.png)
 
-Why we like it:
+Why we like it:  
 **1. Hackable to the core**  
 You can customize Atom to do anything but also use it productively without ever touching a config file.  
 **2. Built-in package manager**  

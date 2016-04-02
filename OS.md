@@ -1,6 +1,6 @@
-# Chapter 1 - Operating Souls
+# Dev101 - Operating Souls
 
-Sadly terminals need an OS to run on (bummer) and as we at ODIN are obsessed with Open-Source softwares, you've got to try out [Linux](http://www.linuxfoundation.org/what-is-linux).  
+As we at ODIN are obsessed with Open-Source softwares, you've got to try out [Linux](http://www.linuxfoundation.org/what-is-linux).  
 We suggest everyone who intends to do development to give any Linux distribution a try. You will definitely be surprised by how efficient things can be for us devs through a terminal.
 
 One may find OSX as an option as well for setting up development environments(OSX is pretty badass),  
@@ -44,7 +44,7 @@ The following links might help you get your system setup for a dual boot operati
 
 ##### Basic Terminal Commands
 `[COMMAND] [FLAGS_NAME]`
-  
+
 Flags are generally seperated by space, prefixed by hypen and could include values corresponding to that flag. Basically, they are arguments that are passed by your terminal to the process corresponding to that command handler.  
 Commands operate in working directory only and could make use of globally/locally declared variables.  
 Path is addressed by a series of file system entries seperated by delimiter. In Linux based systems, the delimiter  is `/` but in windows it is '\'.
@@ -63,4 +63,3 @@ Path is addressed by a series of file system entries seperated by delimiter. In 
 * `kill` : kill process  
  Note: You can get help related to terminal commands by typing `help _command_`
 ![Basic commands](assets/img1.png)
-
