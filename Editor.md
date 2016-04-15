@@ -2,7 +2,7 @@
 
 A Text editor is a sacred software.  
 You get to write and edit your code all because of these marvelous editors.  
-For us Devs, things a get a bit too personal when it comes to a text editor. Our code is too precious to us and thus we search for the perfect text editor in whom we can trust and confide.  
+For us Devs, things get a bit too personal when it comes to a text editor. Our code is too precious to us and thus we search for the perfect text editor in whom we can trust and confide.  
 An editor that makes you want to write it all.  
 Curse you emotions...  
 
@@ -12,7 +12,7 @@ To help you out in choosing your best friend forever, we've come up with a list 
 
 
 #### Sublime : Literally  
-Sublime is arguably the most popular text editor. Coming straight from the homepage of Sublime Text: “Sublime Text is a sophisticated text editor for code, html and prose. You’ll love the slick user interface and extraordinary features.”
+Sublime is arguably the most popular text editor. Coming straight from the homepage of Sublime Text: “Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.”
 
 Why we like it:  
 **1. It's beautiful**  
