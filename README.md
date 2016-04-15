@@ -37,4 +37,4 @@ Learn how to learn Frameworks.
 
 ### [TBA](./)
 
-Contribute today and become an co-author of DevBible!  
+Contribute today and become a co-author of DevBible!  

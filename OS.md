@@ -63,3 +63,6 @@ Path is addressed by a series of file system entries seperated by delimiter. In 
 * `kill` : kill process  
  Note: You can get help related to terminal commands by typing `help _command_`
 ![Basic commands](assets/img1.png)
+
+##### Other Basic Terminal Commands
+![Basic commands](assets/linux_commands.png)
