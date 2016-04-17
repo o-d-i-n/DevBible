@@ -44,7 +44,7 @@ Why we like it:
 **1. Hackable to the core**  
 You can customize Atom to do anything but also use it productively without ever touching a config file.  
 **2. Built-in package manager**  
-Search for and install new packages or start creating your own — all from within Atom.
+Search for and install new packages or start creating your own — all from within Atom.  
 **3. File system browser**
 Easily browse and open a single file, a whole project, or multiple projects in one window.  
 **4. It is freaking Open-Sourced!**  
