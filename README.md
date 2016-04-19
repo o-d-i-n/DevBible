@@ -31,13 +31,13 @@ To Develop, you need to write code. Pretty common sense....
 
 Get your survival kit for the bold step of execution and sustenance.
 
-### [Dev105](./Frameworks.md) - Work done by other people that frame your project
+### [Dev201](./Frameworks.md) - Work done by other people that frame your project
 
 Learn how to learn Frameworks.
 
 ### [TBA](./)
 
-### CONTRIBUTORS
+### Contributors
 <!-- Contributors START
 Divjot_Singh bogas04 https://github.com/bogas04 doc prReview
 Mayank_Badola mbad0la https://github.com/mbad0la doc prReview
