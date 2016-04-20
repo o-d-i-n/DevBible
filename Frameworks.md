@@ -46,3 +46,28 @@ View = React(data, events)
   * [React + Redux](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg) - Watch this one for practical usage of redux, skip react part as by now you would be cool with it
 
   * [Redux](https://egghead.io/series/getting-started-with-redux) - For deep understanding of Redux from the author himself.
+
+### [Meteor](https://github.com/meteor/meteor)
+
+Meteor is a Node-based full-stack framework which allows to create reactive webapps, that could easily be ported to Android and iOS platforms.
+Reactive webapp implies real-time behaviour: There is a continuous connection between the client and server side, and so, a change made in application by any means(direct entry in database, from server, or even by a client) is reflected on every instance of the application without any page reload.
+
+Meteor is based on Websockets(sockJs). In Meteor, the client talks to server over DDP(Distributed Data Protocol), which is like "REST" for websockets. For websockets.
+
+Meteor has its own package manager(Atmosphere) that seperates it from the rest of Node universe. However, NPM packages could be easily wrapped as a Meteor package.
+
+It allows to create simple apps really fast since, most of the configuration comes packed. This makes it ideal for hackathons :P
+It doesnot follow any strict development model (like MVC) and the files can be placed as we would like.
+
+Meteor by default uses Blaze templating system that resembles Handlebars, and is really simple to build upon. It now supports Angular and React templating systems as well.
+
+#### Tutorials and References
+  * https://www.meteor.com/tutorials/blaze/creating-an-app
+  * https://github.com/ericdouglas/Meteor-Learning
+
+#### Essential Packages
+  * https://github.com/aldeed/meteor-collection2
+  * https://github.com/iron-meteor/iron-router
+  * https://github.com/meteorhacks/npm
+  * https://github.com/alanning/meteor-roles
+  * https://github.com/arunoda/meteor-up/tree/mupx
