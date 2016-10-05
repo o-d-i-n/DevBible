@@ -71,3 +71,34 @@ Meteor by default uses Blaze templating system that resembles Handlebars, and is
   * https://github.com/meteorhacks/npm
   * https://github.com/alanning/meteor-roles
   * https://github.com/arunoda/meteor-up/tree/mupx
+  
+### [Django](https://www.djangoproject.com/)
+
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+
+#### Some features of Django
+  * ##### Ridiculously fast.
+  
+    Django was designed to help developers take applications from concept to completion as quickly as possible.
+  * ##### Reassuringly secure.
+  
+    Django takes security seriously and helps developers avoid many common security mistakes.
+  * ##### Exceedingly scalable.
+  
+    Some of the busiest sites on the Web leverage Django’s ability to quickly and flexibly scale.
+    
+#### Tutorials and References
+  * http://www.tangowithdjango.com/
+  * https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+  * https://tutorial.djangogirls.org/en/
+  * http://www.tutorialspoint.com/django/
+  * https://realpython.com/learn/start-django/
+  * http://gregblogs.com/how-django-reactjs-and-browserify/
+
+#### Free Books
+  * http://djangobook.com/
+  * http://masteringdjango.com/
+  * http://chimera.labs.oreilly.com/books/1234000000754/index.html
+  * https://media.readthedocs.org/pdf/django/1.9.x/django.pdf
+  * http://gsl.mit.edu/media/programs/south-africa-summer-2015/materials/djangobook.pdf
+  * https://media.readthedocs.org/pdf/django/1.10.x/django.pdf
