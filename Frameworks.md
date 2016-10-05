@@ -71,3 +71,46 @@ Meteor by default uses Blaze templating system that resembles Handlebars, and is
   * https://github.com/meteorhacks/npm
   * https://github.com/alanning/meteor-roles
   * https://github.com/arunoda/meteor-up/tree/mupx
+
+### [Django](https://www.djangoproject.com/)
+
+Django is a full featured web applications framework for Python that allows for rapid development. It achieves
+this by including a vast number of features that prevent developers from reinventing the wheel. This helps enforce a
+don't repeat yourself (DRY) principle where components can be reused and pluggable, which allow developers
+the option to share components and enhance their apps functionality. Arguably, Django is the most
+popular web framework for Python and is adopted by many well-known sites such as Pintrest, Mozilla and Disqus.
+
+At its core Django follows a Model View Template (MVT) pattern. The model provides the way the data is structured within
+the database. Represented as a Python class, the model is the single definitive source of information about the data and handles
+the creation of the database table. In order to interface with the database, Django provides an object relational mapper (ORM).
+This allows database queries to be constructed by interfacing with a Python object rather than communicating directly with
+the database by constructing SQL queries.
+
+The view handles all the logic required to process requests and return the proper response. This includes the ability to
+define URL endpoints, handle file uploads and serialize the data returned in the response. In general, data is
+retrieved by constructing a ORM query through a model object. The result is passed to the response in the form of a
+context. Typically, the code will load a template which uses the context as a dictionary that maps template variable
+names to Python objects.
+
+The template defines the overall presentation of the data. This defines how the front end will look when a user receives
+the response from the view. Templates are powerful, because they reduce the need to repeat code on the front end.
+Templates have their own syntax that introduces logic and variables within the typical HTML markup. This makes it possible
+to access the content of the context. For instance, one can loop through all the data of a query while applying the
+correct styling. Lastly, templates can import from a base template, which allow common elements, such as a navbar, to be
+written once and plugged where needed.
+
+Django also includes more advance features such as an administrative interface, user authentication and a caching
+framework. Additionally, Django's features can be extended further through third party apps. Some popular choices
+include the Django Rest Framework (DRF), Channels, Elasticsearch and Celery.
+
+
+#### Tutorials and References
+  * http://www.tangowithdjango.com
+  * https://docs.djangoproject.com/en/1.10/intro/tutorial01
+
+#### Essential Packages
+  * http://www.django-rest-framework.org
+  * https://github.com/django/channels
+  * https://django-endless-pagination.readthedocs.io/en/latest
+  * http://docs.celeryproject.org/en/latest/django/first-steps-with-django.html
+  * https://github.com/liberation/django-elasticsearch
