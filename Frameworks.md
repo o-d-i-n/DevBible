@@ -106,6 +106,7 @@ include the Django Rest Framework (DRF), Channels, Elasticsearch and Celery.
 
 #### Tutorials and References
   * http://www.tangowithdjango.com
+  * https://tutorial.djangogirls.org
   * https://docs.djangoproject.com/en/1.10/intro/tutorial01
 
 #### Essential Packages
