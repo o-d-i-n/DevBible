@@ -70,7 +70,7 @@ Technologies like React Native, Cordova/Ionic provide JS tech stack for Mobile A
 
  We hope this post convinces you to learn JavaScript. It really is a great language and totally worth your time.
  
- # Python &#10084;
+# Python &#10084;
  
  One of the most versatile languages in the market right now, and growing faster everyday. Python is billed by the Python Software Foundation as being easy to learn and running everywhere. It's useful for a range of application types, including Web development, scientific computing, and education. Google and Instagram have been among the many users of Python, [and the language scores well in popularity indexes](http://www.codingdojo.com/blog/9-most-in-demand-programming-languages-of-2016/).
  
