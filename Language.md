@@ -69,3 +69,27 @@ Technologies like React Native, Cordova/Ionic provide JS tech stack for Mobile A
  Companies like Google and Facebook are at the forefront of these technologies and those guys know their stuff.
 
  We hope this post convinces you to learn JavaScript. It really is a great language and totally worth your time.
+ 
+ # Python &#10084;
+ 
+ One of the most versatile languages in the market right now, and growing faster everyday. Python is billed by the Python Software Foundation as being easy to learn and running everywhere. It's useful for a range of application types, including Web development, scientific computing, and education. Google and Instagram have been among the many users of Python, [and the language scores well in popularity indexes](http://www.codingdojo.com/blog/9-most-in-demand-programming-languages-of-2016/).
+ 
+**1. Read it, use it with ease.**
+
+ "The main characteristics of a Python program is that it is easy to read," says Pierre Carbonnelle, a Python programmer and blogger who runs the PyPL language index. "This has benefits to you and to others. It helps you think more clearly when writing programs, and it helps the others who will maintain or enhance your program. In both cases, it requires less effort to write a Python program than to write one in another language like C++ or Java." Readability of Python facilitates open source development, Carbonnelle added.
+ 
+**2. Internet of things opportunities.**
+ 
+ Python may become popular for the Internet of things, as new platforms such as Raspberry Pi are based on it, Carbonnelle says. [Raspberry Pi's documentation](https://www.raspberrypi.org/documentation/usage/python/) cites the language as "a wonderful and powerful programming language that's easy to use (easy to read and write) and with Raspberry Pi lets you connect your project to the real world."
+
+**3. Asynchronous coding benefits.**
+
+Python, Deibel says, "is great for writing asynchronous code, which rather than threading uses a single event loop to do work in small units." This code, he says, is often easier to write and maintain without confusing resource contention, deadlocks, etc. "Python's generators are a great way to interleave running many processing loops in this approach." 
+
+**4. Multiparadigm approach bests Java.**
+
+Python's programming approach is not as limited as Java's, Carbonnelle says. "For example, you don't need to create an OO class to print 'Hello world' in Python -- you have to in Java." Unlike Java, Python is multiparadigm and supports OO, procedural, and functional programming styles, he says.
+
+"In Python, everything is an object," says Brian Curtin, a member of the Python Software Foundation board of directors and a core contributor to CPython. "It's possible to write applications in Python using several programming paradigms, but it does make for writing very clear and understandable object-oriented code.
+
+Python is the future.
