@@ -86,7 +86,7 @@ Technologies like React Native, Cordova/Ionic provide JS tech stack for Mobile A
 
 Python, Deibel says, "is great for writing asynchronous code, which rather than threading uses a single event loop to do work in small units." This code, he says, is often easier to write and maintain without confusing resource contention, deadlocks, etc. "Python's generators are a great way to interleave running many processing loops in this approach." 
 
-**4. Multiparadigm approach bests Java.**
+**4. Multiparadigm approach beats Java.**
 
 Python's programming approach is not as limited as Java's, Carbonnelle says. "For example, you don't need to create an OO class to print 'Hello world' in Python -- you have to in Java." Unlike Java, Python is multiparadigm and supports OO, procedural, and functional programming styles, he says.
 
