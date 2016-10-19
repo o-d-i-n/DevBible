@@ -120,25 +120,20 @@ include the Django Rest Framework (DRF), Channels, Elasticsearch and Celery.
 
 Express is a minimalist web applications framework for Node. It is a great solution for single page applications, web sites, hybrids, or
 public HTTP APIs. It is the most popular web framework for Node and is used by companies like Uber, Paypal and Paytm.
-It achieves this by including a vast number of features that prevent developers from reinventing the wheel. This helps
-enforce a don't repeat yourself (DRY) principle where components can be reused and pluggable, which allow developers
-the option to share components and enhance their apps functionality.
 
-At its core Django follows a Model View Template (MVT) pattern. The model provides the way the data is structured within
+Express can be used to follow the Model View Controller (MVC) pattern but is not a MVC framework by itself. The contoller is used to
+process the requests and return appropriate response. It helps to define URL endpoints, send the response in appropriate format,
+interacting with databases and authentication. It 
+
+The model provides the way the data is structured within
 the database. Represented as a Python class, the model is the single definitive source of information about the data and handles
 the creation of the database table. In order to interface with the database, Django provides an object relational mapper (ORM).
 This allows database queries to be constructed by interfacing with a Python object rather than communicating directly with
 the database by constructing SQL queries.
 
-The view handles all the logic required to process requests and return the proper response. This includes the ability to
-define URL endpoints, handle file uploads and serialize the data returned in the response. In general, data is
-retrieved by constructing a ORM query through a model object. The result is passed to the response in the form of a
-context. Typically, the code will load a template which uses the context as a dictionary that maps template variable
-names to Python objects.
-
-The template defines the overall presentation of the data. This defines how the front end will look when a user receives
-the response from the view. Templates are powerful, because they reduce the need to repeat code on the front end.
-Templates have their own syntax that introduces logic and variables within the typical HTML markup. This makes it possible
+The views defines the overall presentation of the data. This defines how the front end will look if a user receives
+the response from the controller. Templates helps in reducing code repition as they allow importing common elements from other
+templates. Templates have their own syntax that introduces logic and variables within the typical HTML markup. This makes it possible
 to access the content of the context. For instance, one can loop through all the data of a query while applying the
 correct styling. Lastly, templates can import from a base template, which allow common elements, such as a navbar, to be
 written once and plugged where needed.
@@ -149,9 +144,10 @@ include the Django Rest Framework (DRF), Channels, Elasticsearch and Celery.
 
 
 #### Tutorials and References
-  * http://www.tangowithdjango.com
-  * https://tutorial.djangogirls.org
-  * https://docs.djangoproject.com/en/1.10/intro/tutorial01
+  * https://expressjs.com/en/4x/api.html
+  * https://www.codeschool.com/courses/building-blocks-of-express-js
+  * https://www.freecodecamp.com/challenges/build-web-apps-with-expressjs
+  * https://github.com/azat-co/expressworks
 
 #### Essential Packages
   * http://www.django-rest-framework.org
