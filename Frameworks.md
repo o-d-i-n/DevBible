@@ -124,10 +124,8 @@ public HTTP APIs. It is the most popular web framework for Node and is used by c
 Express can be used to follow the Model View Controller (MVC) pattern but is not a MVC framework by itself. 
 The contoller is used to process the requests and return appropriate response. It helps to define URL endpoints, send the response in appropriate format, interacting with databases and authentication.
 
-The model provides the way the data is structured within
-the database. **Express does not come with an ORM or an ODM**
-You can use various packages to connect with a database by writing either raw SQL queries or in the form of JavaScript
-classes and functions. 
+The model provides the way the data is structured within the database. **Express does not come with an ORM or an ODM** but you can use 
+various packages to connect with a database by writing either raw SQL queries or in the form of JavaScript classes and functions. 
 
 The views defines the overall presentation of the data as rendered by the browser. This defines how the front end will look 
 if a user receives an HTML response from the controller. They help in populating templates with the relevant data (like user name, profile
@@ -151,4 +149,3 @@ caching, csrf protection etc you have to include other packages.
   * http://passportjs.org/
   * https://www.npmjs.com/package/nodemon
   * https://nodemailer.com/
-  
