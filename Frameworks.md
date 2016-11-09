@@ -115,3 +115,37 @@ include the Django Rest Framework (DRF), Channels, Elasticsearch and Celery.
   * https://django-endless-pagination.readthedocs.io/en/latest
   * http://docs.celeryproject.org/en/latest/django/first-steps-with-django.html
   * https://github.com/liberation/django-elasticsearch
+
+### [Express](https://www.expressjs.com/)
+
+Express is a minimalist web applications framework for Node. It is a great solution for single page applications, web sites, hybrids, or
+public HTTP APIs. It is the most popular web framework for Node and is used by companies like Uber, Paypal and Paytm.
+
+Express can be used to follow the Model View Controller (MVC) pattern but is not a MVC framework by itself. 
+The contoller is used to process the requests and return appropriate response. It helps to define URL endpoints, send the response in appropriate format, interacting with databases and authentication.
+
+The model provides the way the data is structured within the database. **Express does not come with an ORM or an ODM** but you can use 
+various packages to connect with a database by writing either raw SQL queries or in the form of JavaScript classes and functions. 
+
+The views defines the overall presentation of the data as rendered by the browser. This defines how the front end will look 
+if a user receives an HTML response from the controller. They help in populating templates with the relevant data (like user name, profile
+picture) without having to write one for each. Templates have their own syntax that introduces logic and variables within the typical HTML
+markup. Express gives a choice of using one of 24 templating languages depending on your needs. Templates can import from a base template, 
+which allow common elements, such as a navbar, to be written once and plugged where needed.
+
+Express aims to give the bare essentials so that users have the choice to create what they want. For features like user authentication, 
+caching, csrf protection etc you have to include other packages.
+
+#### Tutorials and References
+  * https://expressjs.com/en/4x/api.html
+  * https://www.codeschool.com/courses/building-blocks-of-express-js
+  * https://www.freecodecamp.com/challenges/build-web-apps-with-expressjs
+  * https://github.com/azat-co/expressworks
+
+#### Essential Packages
+  * http://expressjs.com/en/resources/middleware.html
+  * http://mongoosejs.com/
+  * http://knexjs.org/
+  * http://passportjs.org/
+  * https://www.npmjs.com/package/nodemon
+  * https://nodemailer.com/
