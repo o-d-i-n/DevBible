@@ -170,23 +170,23 @@ Extensions are updated far more regularly than the core Flask program.
 
 ### Features
 
-  *Contains development server and debugger
-  *Integrated support for unit testing
-  *RESTful request dispatching
-  *Uses Jinja2 templating
-  *Support for secure cookies (client side sessions)
-  *100% WSGI 1.0 compliant
-  *Unicode-based
-  *Extensive documentation
-  *Google App Engine compatibility
-  *Extensions available to enhance features desired
+  * Contains development server and debugger
+  * Integrated support for unit testing
+  * RESTful request dispatching
+  * Uses Jinja2 templating
+  * Support for secure cookies (client side sessions)
+  * 100% WSGI 1.0 compliant
+  * Unicode-based
+  * Extensive documentation
+  * Google App Engine compatibility
+  * Extensions available to enhance features desired
   
 ### Tutorials
 
-  *http://flask.pocoo.org/
-  *https://www.tutorialspoint.com/flask/
-  *http://flask.pocoo.org/docs/latest/tutorial/
-  *https://www.fullstackpython.com/flask.html
-  *https://pythonspot.com/en/flask-web-app-with-python/
-  *https://hackr.io/tutorials/learn-flask
+  * http://flask.pocoo.org/
+  * https://www.tutorialspoint.com/flask/
+  * http://flask.pocoo.org/docs/latest/tutorial/
+  * https://www.fullstackpython.com/flask.html
+  * https://pythonspot.com/en/flask-web-app-with-python/
+  * https://hackr.io/tutorials/learn-flask
   
