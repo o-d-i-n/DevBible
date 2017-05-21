@@ -1,4 +1,7 @@
 # Frameworks
+![Frameworks](https://github.com/gabru-md/DevBible/blob/master/assets/frameworks.png?raw=true)
+
+
 While writing everything from scratch is amazing, practical development work involves quick learning of Frameworks and their best practices to reduce development time and re-use highly maintained code as a dependency to your project.
 
 We can't possibly teach every framework, hence we first propose an approach for learning frameworks followed by nice resources for the same.
@@ -14,6 +17,7 @@ We can't possibly teach every framework, hence we first propose an approach for 
 Now we look at popular libraries and frameworks.
 
 ### [React](https://facebook.github.io/react)
+![React](https://github.com/gabru-md/DevBible/blob/master/assets/reactOS.png?raw=true)
 
 React isn't really a framework, it's a library, however it isn't used as is in practical world.
 
@@ -73,6 +77,7 @@ Meteor by default uses Blaze templating system that resembles Handlebars, and is
   * https://github.com/arunoda/meteor-up/tree/mupx
 
 ### [Django](https://www.djangoproject.com/)
+![Django Framework](https://github.com/gabru-md/DevBible/blob/master/assets/_django.png?raw=true)
 
 Django is a full featured web applications framework for Python that allows for rapid development. It achieves
 this by including a vast number of features that prevent developers from reinventing the wheel. This helps enforce a
@@ -152,6 +157,7 @@ caching, csrf protection etc you have to include other packages.
 
 
 ### [Flask](http://flask.pocoo.org/)
+![Flask](https://github.com/gabru-md/DevBible/blob/master/assets/flask.png?raw=true)
 
 Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine.
 
