@@ -182,7 +182,7 @@ Extensions are updated far more regularly than the core Flask program.
   * Extensions available to enhance features desired
   
 ### Tutorials
-
+  * https://goo.gl/agwmmq - Tutorials by sentdex!
   * http://flask.pocoo.org/
   * https://www.tutorialspoint.com/flask/
   * http://flask.pocoo.org/docs/latest/tutorial/
