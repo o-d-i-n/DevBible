@@ -196,3 +196,62 @@ Extensions are updated far more regularly than the core Flask program.
   * https://pythonspot.com/en/flask-web-app-with-python/
   * https://hackr.io/tutorials/learn-flask
   
+
+### [OpenCV](http://opencv.org/)
+![OpenCV](http://www.exuberantsolutions.com/course_logo/opencv_logo.png)
+
+OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision. Originally 
+developed by Intel, it was later supported by Willow Garage and is now maintained by Itseez. The library is cross-platform and free 
+for use under the open-source BSD license.
+
+It is particularly difficult to say whether OpenCV is a framework or a tool.
+But what is important is to learn it and try to master it.
+
+It has C++, C, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational 
+efficiency and with a strong focus on real-time applications. Written in optimized C/C++, the library can take advantage of multi-core 
+processing. Enabled with OpenCL, it can take advantage of the hardware acceleration of the underlying heterogeneous compute platform.
+
+Cool! isn't it?
+
+### Features
+
+#### Applications
+
+  * 2D and 3D feature toolkits
+  * Egomotion estimation
+  * Facial recognition system
+  * Gesture recognition
+  * Human–computer interaction (HCI)
+  * Mobile robotics
+  * Motion understanding
+  * Object identification
+  * Segmentation and recognition
+  * Stereopsis stereo vision: depth perception from 2 cameras
+  * Structure from motion (SFM)
+  * Motion tracking
+  * Augmented reality
+
+#### Machine Learning Features
+
+  * Boosting
+  * Decision tree learning
+  * Gradient boosting trees
+  * Expectation-maximization algorithm
+  * k-nearest neighbor algorithm
+  * Naive Bayes classifier
+  * Artificial neural networks
+  * Random forest
+  * Support vector machine (SVM)
+
+
+### Tutorials
+
+  * http://docs.opencv.org/master/d9/df8/tutorial_root.html
+  * www.tutorialspoint.com/opencv/
+  * https://goo.gl/cYqM5Y
+  
+  These are some Machine Learning Tutorials to start with
+  
+  * https://goo.gl/w7aObb
+  * https://goo.gl/EzqOPN
+  
