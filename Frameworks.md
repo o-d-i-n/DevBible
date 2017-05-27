@@ -197,6 +197,7 @@ Extensions are updated far more regularly than the core Flask program.
   * https://hackr.io/tutorials/learn-flask
   
 
+
 ### [OpenCV](http://opencv.org/)
 ![OpenCV](https://github.com/gabru-md/DevBible/blob/master/assets/opencv.png?raw=true)
 
@@ -254,4 +255,3 @@ Cool! isn't it?
   
   * https://goo.gl/w7aObb
   * https://goo.gl/EzqOPN
-  
