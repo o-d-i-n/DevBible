@@ -198,7 +198,7 @@ Extensions are updated far more regularly than the core Flask program.
   
 
 ### [OpenCV](http://opencv.org/)
-![OpenCV](http://www.exuberantsolutions.com/course_logo/opencv_logo.png)
+![OpenCV](https://github.com/gabru-md/DevBible/blob/master/assets/opencv.png?raw=true)
 
 OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision. Originally 
 developed by Intel, it was later supported by Willow Garage and is now maintained by Itseez. The library is cross-platform and free 
