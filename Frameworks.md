@@ -255,3 +255,30 @@ Cool! isn't it?
   
   * https://goo.gl/w7aObb
   * https://goo.gl/EzqOPN
+
+
+### [Laravel](https://laravel.com/)
+![Laravel](/assets/laravel.png)
+
+Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern. Some of the features of Laravel are a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and its orientation toward syntactic sugar.
+
+As of March 2015, Laravel is regarded as one of the most popular PHP frameworks, together with Symfony, CodeIgniter, Yii2 and others.
+
+The source code of Laravel is hosted on GitHub and licensed under the terms of MIT License.
+
+### Features
+  * Expressive, beautiful syntax.
+  * Modern toolkit. Pinch of magic.
+  * Amazing ORM
+  * Routing
+  * Queue library
+  * Simple authentication
+
+#### Tutorials and References
+  * https://laravel.com/docs/master/installation
+  * https://laracasts.com/series/laravel-5-fundamentals
+  * https://www.youtube.com/watch?v=oltgtexDbdo&list=PLnBvgoOXZNCP2LEKmvu2W-eUkO-DYn0TL
+
+  #### Essential Packages
+  * https://github.com/spatie/laravel-backup
+  * https://github.com/spatie/laravel-activitylog
