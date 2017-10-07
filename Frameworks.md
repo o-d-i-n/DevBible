@@ -52,6 +52,7 @@ View = React(data, events)
   * [Redux](https://egghead.io/series/getting-started-with-redux) - For deep understanding of Redux from the author himself.
 
 ### [Meteor](https://github.com/meteor/meteor)
+![Meteor](https://guide.meteor.com/images/logo-coralspace-left.svg)
 
 Meteor is a Node-based full-stack framework which allows to create reactive webapps, that could easily be ported to Android and iOS platforms.
 Reactive webapp implies real-time behaviour: There is a continuous connection between the client and server side, and so, a change made in application by any means(direct entry in database, from server, or even by a client) is reflected on every instance of the application without any page reload.
